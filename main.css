@@ -1,0 +1,27 @@
+h1 {
+  color:red;
+}
+h2 {
+  color:red;
+}
+body {
+  background-color:lightblue;
+  color:blue 
+}
+ol {
+  color:green;
+}
+button {
+  color:green;
+}
+a {
+  color:cyan;
+}
+body {
+  padding: 30px;
+}
+h1 {
+  text-align:center;
+}
+
+
